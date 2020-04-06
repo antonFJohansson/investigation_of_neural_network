@@ -1,0 +1,5 @@
+Extra Info: Calculate rank now of experiments use_random_labels = Truesing_on_train_data= True: per_batchTrue
+Layer name : Layer widths (The save notation of the pickle file is Dataset_Net_lr_epochs) (layer save notation is [num_neurons_in, num_neurons_out] for each layer)
+Net1 : [[784, 50], [50, 50], [50, 50], [50, 50], [50, 50]]
+Net2 : [[784, 100], [100, 100], [100, 100], [100, 100], [100, 100]]
+Net3 : [[784, 200], [200, 200], [200, 200], [200, 200], [200, 200]]
